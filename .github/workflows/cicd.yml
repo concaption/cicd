@@ -20,5 +20,5 @@ jobs:
       - name: format
         run: make format
       - name: deploy
-        run: run deploy
+        run: make deploy
   
